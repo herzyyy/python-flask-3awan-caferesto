@@ -43,7 +43,7 @@ Terhubung dengan database PostgreSQL (Railway)
 
 🧰 Instalasi & Menjalankan Proyek
 1️⃣ Clone Repository
-git clone https://github.com/username/3awan-caferesto-api.git
+git clone https://github.com/herzyyy/3awan-caferesto-api.git
 cd 3awan-caferesto-api
 
 2️⃣ Buat Virtual Environment
